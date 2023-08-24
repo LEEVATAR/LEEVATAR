@@ -13,11 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img src="https://img.shields.io/badge/{내용}-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/>
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEVATAR&show_icons=true&theme=black)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEEVATAR&layout=compact&theme=tokyonight)
 
+
 ### SKILL
-<br/>
-<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=3776AB"/>
+
+<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=000000"/>
