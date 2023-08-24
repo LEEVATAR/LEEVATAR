@@ -1,4 +1,4 @@
-### 반갑습니다 이현석입니다. HELLO IM MISTERLEE👋
+### 👋 반갑습니다 이현석입니다. HELLO I'm MISTERLEE and I might be a good developer👋
 
 <!--
 **LEEVATAR/LEEVATAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEVATAR&show_icons=true&theme=black)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEEVATAR&layout=compact&theme=tokyonight)
