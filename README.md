@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEVATAR&show_icons=true&theme=black)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEEVATAR&layout=compact&theme=tokyonight)
+
+### SKILL
+<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=3776AB"/>
