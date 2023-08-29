@@ -27,12 +27,13 @@ __Language__
   <p>
    <img src="https://img.shields.io/badge/Java Script-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> 
+   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
   </p>
 
 **FrontEnd**
   <p>
    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
-   <img src="https://img.shields.io/badge/socket.io.Client-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
    <img src="https://img.shields.io/badge/Zustand-6DB33F?style=for-the-badge&logo=zustand&logoColor=white">
    <img src="https://img.shields.io/badge/swr-010101?style=for-the-badge&logo=swr&logoColor=white"/>
    <img src="https://img.shields.io/badge/MUI-007ACC?style=for-the-badge&logo=MUI&logoColor=white"/>
@@ -42,14 +43,14 @@ __Language__
   <p>
    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
    <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"/>
    <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
   </p>
   
 **ORM & SQL Mapper**
   <p>
    <img src="https://img.shields.io/badge/mybatis-010101?style=for-the-badge&logo=mybatis&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white"/>
+   <img src="https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
   </p>
   
 **DataBase**
@@ -60,7 +61,8 @@ __Language__
   
 **Cloud**
   <p>
-   <img src="https://img.shields.io/badge/Naver Cloud Platform-03C75A?style=for-the-badge&logo=naver&logoColor=white"> 
+   <img src="https://img.shields.io/badge/Naver Cloud Platform-03C75A?style=for-the-badge&logo=naver&logoColor=white">
+   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   </p>
   
 **Tools**
@@ -71,6 +73,7 @@ __Language__
    <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
    <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
    <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
+   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
    <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
   </p>
 <br/><br/>
