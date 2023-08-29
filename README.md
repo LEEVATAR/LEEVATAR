@@ -1,4 +1,4 @@
-### 👋 반갑습니다 이현석입니다. HELLO I'm MISTERLEE and I might be a good developer👋
+### 👋 안녕하세요 최고가 되려 노력하는, 이현석의 깃허브에 오신것을 환영합니다. HELLO I'm MISTERLEE and I might be a good developer👋
 
 <!--
 **LEEVATAR/LEEVATAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,14 +23,54 @@ Here are some ideas to get you started:
   
 ### 🛠️ Tool & Skill 🛠️
 
-<img src="https://img.shields.io/badge/intellij-000000?style=flat-square&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/eclipse-4B4B77?style=flat-square&logo=eclipseide&logoColor=white"/> <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/> <img src="https://img.shields.io/badge/NaverCloud-03C75A?style=flat-square&logo=naver&logoColor=white"/> 
-<img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white"/> <br/>
-<img src="https://img.shields.io/badge/Java-1E8CBE?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JSP-FF3300?style=flat-square&logo=JSP&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
-<img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=MyBatis&logoColor=white"/> <img src="https://img.shields.io/badge/BootStrap-7952B3?style=flat-square&logo=BootStrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jquery-0769AD?style=flat-square&logo=Jquery&logoColor=white"/> <img src="https://img.shields.io/badge/Ajax-0769AD?style=flat-square&logo=Ajax&logoColor=white"/> 
+__Language__
+  <p>
+   <img src="https://img.shields.io/badge/Java Script-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> 
+  </p>
+
+**FrontEnd**
+  <p>
+   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
+   <img src="https://img.shields.io/badge/socket.io.Client-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Zustand-6DB33F?style=for-the-badge&logo=zustand&logoColor=white">
+   <img src="https://img.shields.io/badge/swr-010101?style=for-the-badge&logo=swr&logoColor=white"/>
+   <img src="https://img.shields.io/badge/MUI-007ACC?style=for-the-badge&logo=MUI&logoColor=white"/>
+  </p>
+  
+**BackEnd**
+  <p>
+   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
+   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+   <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+  </p>
+  
+**ORM & SQL Mapper**
+  <p>
+   <img src="https://img.shields.io/badge/mybatis-010101?style=for-the-badge&logo=mybatis&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white"/>
+  </p>
+  
+**DataBase**
+  <p>
+   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
+   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  
+  </p>
+  
+**Cloud**
+  <p>
+   <img src="https://img.shields.io/badge/Naver Cloud Platform-03C75A?style=for-the-badge&logo=naver&logoColor=white"> 
+  </p>
+  
+**Tools**
+  <p>
+   <img src="https://img.shields.io/badge/Apache Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"> 
+   <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+   <img src="https://img.shields.io/badge/junit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+   <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+   <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
+   <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
+  </p>
 <br/><br/>
