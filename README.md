@@ -1,5 +1,5 @@
-### 👋 안녕하세요 최고가 되려 노력하는, 이현석의 깃허브에 오신것을 환영합니다. 
-HELLO I'm MISTERLEE and I might be a good developer👋
+### 👋 안녕하세요 최고가 되려 노력하는, 이현석의 깃허브에 오신것을 환영합니다.👋
+HELLO I'm MISTERLEE and I might be a good developer!
 
 <!--
 **LEEVATAR/LEEVATAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
