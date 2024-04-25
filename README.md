@@ -59,7 +59,7 @@ __Language__
   <p>
    <img src="https://img.shields.io/badge/Oracle DB-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  
-   <img src="https://img.shields.io/badge/Postgre SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=gray">  
+   <img src="https://img.shields.io/badge/Postgre SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">  
    <img src="https://img.shields.io/badge/HANA DB-4169E1?style=for-the-badge&logo=sap&logoColor=blue">  
   </p>
 **Cloud**
