@@ -1,7 +1,6 @@
 ### 👋 반갑습니다 개발자 이현석입니다👋
 HELLO I'm MISTERLEE
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLEEVATAR%2Fhit-counter&count_bg=%23EC0800&title_bg=%23000000&icon=proto-dot-io.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **LEEVATAR/LEEVATAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,6 +21,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEEVATAR&layout=compact&theme=tokyonight)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLEEVATAR%2Fhit-counter&count_bg=%23EC0800&title_bg=%23000000&icon=proto-dot-io.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
   
 ### 🛠️ Tool & Skill 🛠️
