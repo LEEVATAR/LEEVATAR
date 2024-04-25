@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 __Language__
   <p>
-  <img src="https://img.shields.io/badge/Sap-0FAAFF?style=for-the-badge&logo=sap&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Sap Fiori-0FAAFF?style=for-the-badge&logo=sap&logoColor=blue"/>
    <img src="https://img.shields.io/badge/Java Script-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> 
    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -57,10 +57,11 @@ __Language__
   
 **DataBase**
   <p>
-   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
+   <img src="https://img.shields.io/badge/Oracle DB-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  
+   <img src="https://img.shields.io/badge/Postgre SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=gray">  
+   <img src="https://img.shields.io/badge/HANA DB-4169E1?style=for-the-badge&logo=sap&logoColor=blue">  
   </p>
-  
 **Cloud**
   <p>
    <img src="https://img.shields.io/badge/Naver Cloud Platform-03C75A?style=for-the-badge&logo=naver&logoColor=white">
