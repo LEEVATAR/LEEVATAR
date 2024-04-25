@@ -1,5 +1,5 @@
-### 👋 안녕하세요 최고가 되려 노력하는, 이현석의 깃허브에 오신것을 환영합니다.👋
-HELLO I'm MISTERLEE and I might be a good developer!
+### 👋 반갑습니다 개발자 이현석입니다👋
+HELLO I'm MISTERLEE
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLEEVATAR%2Fhit-counter&count_bg=%23EC0800&title_bg=%23000000&icon=proto-dot-io.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
