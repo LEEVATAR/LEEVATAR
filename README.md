@@ -62,11 +62,12 @@ __Language__
    <img src="https://img.shields.io/badge/Postgre SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">  
    <img src="https://img.shields.io/badge/HANA DB-4169E1?style=for-the-badge&logo=sap&logoColor=blue">  
   </p>
+
 **Cloud**
   <p>
    <img src="https://img.shields.io/badge/Naver Cloud Platform-03C75A?style=for-the-badge&logo=naver&logoColor=white">
    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Cloud Foundry-232F3E?style=for-the-badge&logo=cloudfoundry&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Cloud Foundry-232F3E?style=for-the-badge&logo=cloudfoundry&logoColor=white"/>
   </p>
   
 **Tools**
